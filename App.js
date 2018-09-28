@@ -90,7 +90,7 @@ export default class App extends Component {
                     </TouchableOpacity>
 
                     <TouchableOpacity style={styles.button}
-                                      onPress={() => Linking.openURL('http://github.com/c3rberuss/')}>
+                                      onPress={() => Linking.openURL('https://github.com/c3rberuss/AppZone')}>
 
                         <Icon name={'github'} size={20} color={'#fff'}/>
 
